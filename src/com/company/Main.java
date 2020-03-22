@@ -34,10 +34,10 @@ public class Main {
 //        me.pet.takeForAWalk();
 //        me.pet.takeForAWalk();
 //        me.pet.takeForAWalk();
-        for (int i = 0; )
-        do{
-            me.pet.takeForAWalk();
-        }while (me.pet.imDead());
+//        for (int i = 0; )
+//        do{
+//            me.pet.takeForAWalk();
+//        }while (me.pet.imDead());
 
         me.car = new Car("Volkswagen","Passat",1984,1.9,"Red");
 
